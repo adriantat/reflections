@@ -1,2 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 	.git is created for version control.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It lets you to partially commit some files
+How can you use the staging area to make sure you have one commit per logical change?
+	~~~Not sure what is this asking~~~
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Easier when trying out different experiment, to have different line of product.
+How do the diagrams help you visualize the branch structure?
+	It helps to know better about the how many different version you have.
