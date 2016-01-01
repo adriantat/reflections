@@ -8,3 +8,8 @@ What are some situations when branches would be helpful in keeping your history 
 	Easier when trying out different experiment, to have different line of product.
 How do the diagrams help you visualize the branch structure?
 	It helps to know better about the how many different version you have.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	It will combines tgt. 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Pros: easy and fast
+	Cons: may contains meaningless (not fully optimized) code, and automatic merging may fail in some time
